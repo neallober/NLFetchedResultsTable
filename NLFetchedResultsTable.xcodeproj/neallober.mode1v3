@@ -316,7 +316,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>NLFetchedResultsTable.m</string>
+								<string>NLFetchedResultsTable.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -324,11 +324,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>NLFetchedResultsTable.m</string>
+										<string>NLFetchedResultsTable.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D5BBBEC012E09E7D0095B737</string>
+										<string>D5A1D1D812E0A12A00708C8F</string>
 										<key>history</key>
 										<array>
 											<string>D5BBBE9D12E09CE20095B737</string>
@@ -337,8 +337,8 @@
 											<string>D5BBBEA912E09D200095B737</string>
 											<string>D5BBBEB312E09D870095B737</string>
 											<string>D5BBBEB412E09D870095B737</string>
+											<string>D5A1D1D712E0A12A00708C8F</string>
 											<string>D5BBBEBD12E09E7D0095B737</string>
-											<string>D5BBBEBE12E09E7D0095B737</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -350,14 +350,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1520, 1129}}</string>
+								<string>{{0, 0}, {1520, 1127}}</string>
 								<key>RubberWindowFrame</key>
 								<string>634 122 1842 1296 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>1129pt</string>
+							<string>1127pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -370,14 +370,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 1134}, {1520, 121}}</string>
+								<string>{{0, 1132}, {1520, 123}}</string>
 								<key>RubberWindowFrame</key>
 								<string>634 122 1842 1296 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>121pt</string>
+							<string>123pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -396,9 +396,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>D5BBBE7512E09AEC0095B737</string>
+				<string>D5A1D1D912E0A12A00708C8F</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>D5BBBE7612E09AEC0095B737</string>
+				<string>D5A1D1DA12E0A12A00708C8F</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -536,9 +536,7 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>D5E428E512DFE3520027D71D</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/neallober/Dropbox/iPhone Apps/NLFetchedResultsTable/NLFetchedResultsTable.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -580,8 +578,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -621,7 +617,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>D5E428E512DFE3520027D71D</string>
-				<string>D5BBBE7712E09AEC0095B737</string>
+				<string>D5A1D1DB12E0A12A00708C8F</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>

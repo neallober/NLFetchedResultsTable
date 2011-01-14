@@ -1,7 +1,25 @@
 NLFetchedResultsTable
 =====================
 
-NLFetchedResultsTable is a small open-source class that helps you
-quickly create and configure a UITableViewController that is backed
-by an NSFetchedResultsController.
+`NLFetchedResultsTable` is a small open-source class that helps you
+quickly create and configure a `UITableViewController` that is backed
+by an `NSFetchedResultsController`. This is code I use in a lot of my
+projects, and have extracted into its own class.  The primary benefit
+of using an `NLFetchedResultsTable` is that it handles a lot of the 
+`NSFetchedResultsControllerDelegate` and `UITableViewDataSource` methods
+for you.
 
+### How to Use NLFetchedResultsTable ###
+You can create and instantiate an `NLFetchedResultsTable` on its own,
+or you can subclass it to customize to your liking.  In the sample
+code, the app delegate creates an instance of RootViewController with
+the following:
+
+    RootViewController *rootViewController = (RootViewController *)[navigationController topViewController];
+    rootViewController.managedObjectContext = self.managedObjectContext;
+    rootViewController.entityName = @"Event";
+    rootViewController.cellTextLabelKey = @"name";
+    rootViewController.cellDetailTextLabelKey = @"timeStamp";
+
+The RootViewController class subclasses `NLFetchedResultsTable` to
+provide its own add and edit functionality.
