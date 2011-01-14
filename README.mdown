@@ -22,4 +22,29 @@ the following:
     rootViewController.cellDetailTextLabelKey = @"timeStamp";
 
 The RootViewController class subclasses `NLFetchedResultsTable` to
-provide its own add and edit functionality.
+provide its own add and edit records functionality.
+
+### Required Properties ###
+After creating an `NLFetchedResultsTable` or a subclass of `NLFetchedResultsTable`,
+the following properties are required to be set prior to displaying:
+
+1. managedObjectContext - the `NSManagedObjectContext` from which to fetch objects
+2. entityName - an string specifying the name of the entities to fetch
+3. cellTextLabelKey - they key to use for the textLabel.text property of the `UITableViewCell`s
+
+### Optional Properties ###
+The following properties can optionally be set to add functionality to
+the `NLFetchedResultsController`:
+
+1. viewTitle - use this to specify the title for the view
+2. reusableCellIdentifier - the reusableCellIdentifier used by the `UITableViewCell`s that are created
+3. sectionNameKeyPath - use this to specify the key path to use for sections in the table view
+4. sortDescriptors - an `NSArray` of sortDescriptors to use. By default an `NLFetchedResultsTable` will sort by the cellTextLabelKey.
+5. resultsCacheName - use this to manually specify the name for the frc's results cache
+6. cellDetailTextLabelKey - an optional key to use for the cells' detailTextLabel.text
+
+### License ###
+This code is free for anyone to use in personal or commercial projects under the Creative Commons
+Attribution 3.0 license (http://creativecommons.org/licenses/by/3.0/).
+
+Any comments or suggestions that would help improve this code are always welcome!  Enjoy!

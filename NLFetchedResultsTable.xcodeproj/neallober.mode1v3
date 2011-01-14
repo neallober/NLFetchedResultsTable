@@ -273,7 +273,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
+									<integer>6</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
@@ -298,7 +298,7 @@
 							<real>300</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>634 122 1842 1296 0 0 2560 1418 </string>
+						<string>720 122 1842 1296 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -328,7 +328,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>D5A1D1D812E0A12A00708C8F</string>
+										<string>D5A1D1DF12E0A39E00708C8F</string>
 										<key>history</key>
 										<array>
 											<string>D5BBBE9D12E09CE20095B737</string>
@@ -336,9 +336,9 @@
 											<string>D5BBBEA812E09D200095B737</string>
 											<string>D5BBBEA912E09D200095B737</string>
 											<string>D5BBBEB312E09D870095B737</string>
-											<string>D5BBBEB412E09D870095B737</string>
-											<string>D5A1D1D712E0A12A00708C8F</string>
-											<string>D5BBBEBD12E09E7D0095B737</string>
+											<string>D5A1D1DC12E0A39E00708C8F</string>
+											<string>D5A1D1DD12E0A39E00708C8F</string>
+											<string>D5A1D1DE12E0A39E00708C8F</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -352,7 +352,7 @@
 								<key>Frame</key>
 								<string>{{0, 0}, {1520, 1127}}</string>
 								<key>RubberWindowFrame</key>
-								<string>634 122 1842 1296 0 0 2560 1418 </string>
+								<string>720 122 1842 1296 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
@@ -372,7 +372,7 @@
 								<key>Frame</key>
 								<string>{{0, 1132}, {1520, 123}}</string>
 								<key>RubberWindowFrame</key>
-								<string>634 122 1842 1296 0 0 2560 1418 </string>
+								<string>720 122 1842 1296 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
@@ -540,7 +540,7 @@
 		<string>/Users/neallober/Dropbox/iPhone Apps/NLFetchedResultsTable/NLFetchedResultsTable.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>634 122 1842 1296 0 0 2560 1418 </string>
+	<string>720 122 1842 1296 0 0 2560 1418 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>

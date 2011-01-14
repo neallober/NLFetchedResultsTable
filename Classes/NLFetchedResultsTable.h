@@ -26,10 +26,10 @@
 	// Variables that can be optionally set to add functionality to your NLFetchedResultsTable
 	NSString					*viewTitle;						// the title to use for the view
 	NSString					*reusableCellIdentifier;			// a reusableCellIdentifier for the UITableViewCell
-	NSString					*sectionNameKeyPath;				// optional: key path to use for sections in the table view
-	NSArray						*sortDescriptors;				// optional: an array of sort descriptors
-	NSString					*resultsCacheName;				// optional: manually specify a name to use for the frc's results cache
-	NSString					*cellDetailTextLabelKey;			// optional: a key to use for the cells' detailTextLabel.text
+	NSString					*sectionNameKeyPath;				// key path to use for sections in the table view
+	NSArray						*sortDescriptors;				// an array of sort descriptors
+	NSString					*resultsCacheName;				// manually specify a name to use for the frc's results cache
+	NSString					*cellDetailTextLabelKey;			// a key to use for the cells' detailTextLabel.text
 	
 	// Internally-used fetchedResultsController
 	NSFetchedResultsController	*fetchedResultsController;	
