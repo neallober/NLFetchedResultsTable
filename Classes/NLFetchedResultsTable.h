@@ -2,13 +2,10 @@
 //  NLFetchedResultsTable.h
 //  -----------------------
 //
-//  Created by Neal Lober on 1/11/11.
-//  Copyright 2011 Neal Lober. All rights reserved.
-//
 //  This class was created to allow you to quickly create UITableViewcontrollers that are backed by
-//  an NSFetchedResultsController.  Much of this code was adapted from Marcus Zarra's article
-//  "Touching The Core," published in the January 2010 article of PragPub magazine as well as the
-//  accompanying Feed-Reader project available on GitHub.
+//  an NSFetchedResultsController.  Much of this code was adapted from Apple's template code,
+//  Marcus Zarra's article "Touching The Core," published in the January 2010 article of PragPub 
+//  magazine, and the accompanying Feed-Reader project available on GitHub.
 //  See: http://pragprog.com/magazines/2010-01/touching-the-core
 //  And See: https://github.com/mzarra/Feed-Reader
 //

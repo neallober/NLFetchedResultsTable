@@ -2,9 +2,6 @@
 //  NLFetchedResultsTable.m
 //  -----------------------
 //
-//  Created by Neal Lober on 1/11/11.
-//  Copyright 2011 Neal Lober. All rights reserved.
-//
 
 #import "NLFetchedResultsTable.h"
 

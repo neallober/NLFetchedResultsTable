@@ -2,9 +2,6 @@
 //  NLFetchedResultsTableAppDelegate.m
 //  NLFetchedResultsTable
 //
-//  Created by Neal Lober on 1/13/11.
-//  Copyright 2011 Allied. All rights reserved.
-//
 
 #import "NLFetchedResultsTableAppDelegate.h"
 #import "RootViewController.h"
