@@ -1,0 +1,7 @@
+NLFetchedResultsTable
+=====================
+
+NLFetchedResultsTable is a small open-source class that helps you
+quickly create and configure a UITableViewController that is backed
+by an NSFetchedResultsController.
+
